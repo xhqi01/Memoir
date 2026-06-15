@@ -44,12 +44,4 @@ All entries are stored in your browser's IndexedDB. No server, no account, no tr
 
 ---
 
-## 中文
 
-Memoir 是一个私人关系备忘录——记录和某个人之间发生的一切，方便以后翻回来看。
-
-支持记录事件、感受、他说过的话、你对他的观察、重要转折点和照片。所有数据存在浏览器本地，不上传任何服务器。
-
-AI 功能需要 Anthropic API Key，可以问"总结我们的故事"、"你发现了什么规律"等问题。
-
-MIT © 2024
